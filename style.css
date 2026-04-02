@@ -1,0 +1,28 @@
+h1 {
+    color: green;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: red;
+}
+
+p {
+    color: rgb(255, 236, 114)
+}
+
+th{
+    text-align: left;
+}
+
+td {
+    width: 400px;
+}
+
+p {
+    text-align: justify;
+    width: 300px;
+}
